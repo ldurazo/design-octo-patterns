@@ -1,1 +1,0 @@
-Every package represents a quick implementation of each of the design patterns.
